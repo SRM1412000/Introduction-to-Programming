@@ -1,6 +1,6 @@
 # Introduction-to-Programming-Project
 
-* Project by: Valeria Ferreira Nocua [@valeferreiraan](https://github.com/valeferreiraan) , Germán David Plazas Cayachoa, Santiago Rodríguez Morales
+* Project by: Valeria Ferreira Nocua [@valeferreiraan](https://github.com/valeferreiraan), Germán David Plazas Cayachoa [@DavPlazas](https://github.com/DavPlazas), Santiago Rodríguez Morales [@SRM1412000](https://github.com/SRM1412000)
 
 ## Index
 - [Introduction](#introducción)
