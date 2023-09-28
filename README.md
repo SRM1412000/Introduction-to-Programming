@@ -3,12 +3,12 @@
 * Project by: Valeria Ferreira Nocua [@valeferreiraan](https://github.com/valeferreiraan), Germán David Plazas Cayachoa [@DavPlazas](https://github.com/DavPlazas), Santiago Rodríguez Morales [@SRM1412000](https://github.com/SRM1412000)
 
 ## Index
-- [Introduction](#introduction)
-  - [Summary](#summary)
-  - [Functionality of the Computational Solution](#funcionalidad)
+- [Introduction.](#introduction)
+  - [Summary.](#summary)
+  - [Functionality of the Computational Solution.](#funcionalidad)
 
-- [Description of program](#description)
-- [How to use](#use)
+- [Description of program.](#description)
+- [How to use.](#use)
   - [Subsección 3](#subsección-3)
   - [Subsección 4](#subsección-4)
 
@@ -64,9 +64,43 @@ The program proceeds to search in the file "Obri.txt" (where the summary of the 
 5. As previously stated, the program does not define functions or classes for its execution. Basically, in each call it iterates over the readings and looks for the values.
 
 ## Hot to use <a name="use"></a>
-### Subsección 3 <a name="subsección-3"></a>
-Contenido de la Subsección 3...
+1. Save the file ProjectVFF.py in a folder. 
+2. Save the files 23.txt, 24.txt, 25.txt, 26.txt and 27.txt in the same folder as ProjectVFF.py.
+3. Run the program by clicking on the green arrow.
+   
+   ![image](https://github.com/SRM1412000/Introduction-to-Programming-Project/assets/146349622/45a3137e-1eef-4927-8336-53420208cac7)
 
-### Subsección 4 <a name="subsección-4"></a>
-Contenido de la Subsección 4...
+4. The following message will be displayed in the console:
+
+    ![image](https://github.com/SRM1412000/Introduction-to-Programming-Project/assets/146349622/39956efa-6286-4d3c-95e8-d5cdbeca6471)
+
+    Type in the console the number 0, without spaces.
+    
+    ![image](https://github.com/SRM1412000/Introduction-to-Programming-Project/assets/146349622/23860149-3169-4d0e-ad53-82b7bead0a50)!
+
+    When you press enter, the following message will be displayed in the console:
+    
+    ![image](https://github.com/SRM1412000/Introduction-to-Programming-Project/assets/146349622/e470a72d-0ead-46fc-b67b-756b4c83ad3a)
+
+    
+    Type 1 without leaving any spaces:
+           
+    ![image](https://github.com/SRM1412000/Introduction-to-Programming-Project/assets/146349622/0dcbb94a-7d56-4329-9144-7b109f50a716)
+
+    When you press enter, the following message will be displayed on the console:
+    
+           ![image](https://github.com/SRM1412000/Introduction-to-Programming-Project/assets/146349622/b1a8f245-bba1-476b-8fd8-6087a1a7c744)
+
+    
+    Type 23.txt
+     ![image](https://github.com/SRM1412000/Introduction-to-Programming-Project/assets/146349622/09185df4-b943-4a35-ac8b-b7ef1ce0ffae)
+
+    
+    When you press enter, the following message will be printed to the console:
+    ![image](https://github.com/SRM1412000/Introduction-to-Programming-Project/assets/146349622/6e0d9a27-10d5-44ba-94cd-e0f39fea7315)
+
+     
+    Go to the same folder where you saved ProyectoVFF.py , there you will find the file "Obri.txt" (In the case of checking with 23.txt you will notice how the program identifies two codes and accounts for a balanced equation).
+    
+    IMPORTANT: Do not delete the file "Obri.txt" at any time.
 
