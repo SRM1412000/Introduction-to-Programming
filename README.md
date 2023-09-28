@@ -1,6 +1,6 @@
 # Introduction-to-Programming-Project
 
-* Project by: Valeria Ferreira Nocua @nombredeusuario , Germán David Plazas Cayachoa, Santiago Rodríguez Morales
+* Project by: Valeria Ferreira Nocua @valeferreiraan, Germán David Plazas Cayachoa, Santiago Rodríguez Morales
 
 ## Index
 - [Introduction](#introducción)
