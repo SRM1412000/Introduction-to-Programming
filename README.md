@@ -89,11 +89,11 @@ The program proceeds to search in the file "Obri.txt" (where the summary of the 
 
     When you press enter, the following message will be displayed on the console:
     
-           ![image](https://github.com/SRM1412000/Introduction-to-Programming-Project/assets/146349622/b1a8f245-bba1-476b-8fd8-6087a1a7c744)
+    ![image](https://github.com/SRM1412000/Introduction-to-Programming-Project/assets/146349622/b1a8f245-bba1-476b-8fd8-6087a1a7c744)
 
     
     Type 23.txt
-     ![image](https://github.com/SRM1412000/Introduction-to-Programming-Project/assets/146349622/09185df4-b943-4a35-ac8b-b7ef1ce0ffae)
+    ![image](https://github.com/SRM1412000/Introduction-to-Programming-Project/assets/146349622/09185df4-b943-4a35-ac8b-b7ef1ce0ffae)
 
     
     When you press enter, the following message will be printed to the console:
