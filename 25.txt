@@ -1,2 +1,0 @@
-FECHA      CODIGO      VALOR 
-25-03-19   1105      2000000
