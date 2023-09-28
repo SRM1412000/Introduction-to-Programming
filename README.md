@@ -8,7 +8,7 @@
   - [Functionality of the Computational Solution](#funcionalidad)
 
 - [Description of program](#description)
-- [Uso](#uso)
+- [How to use](#use)
   - [Subsección 3](#subsección-3)
   - [Subsección 4](#subsección-4)
 
@@ -61,9 +61,9 @@ The program proceeds to search in the file "Obri.txt" (where the summary of the 
   
    * The program indicates where the summary information is (Lines 921 and 922 of ProyectoVFF.py).
                          
+5. As previously stated, the program does not define functions or classes for its execution. Basically, in each call it iterates over the readings and looks for the values.
 
-
-## Uso
+## Hot to use <a name="use"></a>
 ### Subsección 3 <a name="subsección-3"></a>
 Contenido de la Subsección 3...
 
