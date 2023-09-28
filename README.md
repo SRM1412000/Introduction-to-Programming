@@ -7,7 +7,7 @@
   - [Summary](#summary)
   - [Functionality of the Computational Solution](#funcionalidad)
 
-- [Description of program](#description of program)
+- [Description of program](#description)
 - [Uso](#uso)
   - [Subsección 3](#subsección-3)
   - [Subsección 4](#subsección-4)
@@ -42,7 +42,23 @@ The program proceeds to search in the file "Obri.txt" (where the summary of the 
 
 5.	The account summary is now visible in the file "Obri.txt".
 
-## Description of program
+## Description of program <a name="description"></a>
+
+1.	File names: 
+Main program: ProjectVFF.py
+Attached files to check the correct functioning of the program: 23.txt, 24.txt, 25.txt, 26.txt, 27.txt and Word file "User's guide for the use of the project.
+2.	File to run: VFF.py project.
+3. Functions: The project does not define functions for its operation, it does the same procedure according to the user's indications.
+4. Order of the project:
+  a) The program asks how you want to use the program, if you want to create or upload a file. In case you want to create a file, it creates it (Lines 1 to 19 of ProjectVFF.py).
+  b) The program initializes variables or collects information from the account summary (Lines 21 to 172 of ProyectoVFF.py).
+  c) The program proceeds to add and adjust changes in the variables (Lines 177 to 461 of ProyectoVFF.py).
+  d) The program writes in the file the collected information in the form of a table (Lines 465 to 775 of ProyectoVFF.py).
+  e) The program writes in the project the value owned in Assets, Liabilities and Equity (Lines 777 to 779 of ProyectoVFF.py).
+  f) The program checks if the equation is balanced. If not, it suggests the steps to review to balance your account (Lines 781 to 915 of ProyectoVFF.py).
+  g) The program indicates where the summary information is (Lines 921 and 922 of ProyectoVFF.py).
+                         
+
 
 ## Uso
 ### Subsección 3 <a name="subsección-3"></a>
