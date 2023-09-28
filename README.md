@@ -9,8 +9,6 @@
 
 - [Description of program.](#description)
 - [How to use.](#use)
-  - [Subsección 3](#subsección-3)
-  - [Subsección 4](#subsección-4)
 
 
 ## Introduction
