@@ -82,7 +82,6 @@ The program proceeds to search in the file "Obri.txt" (where the summary of the 
     
     ![image](https://github.com/SRM1412000/Introduction-to-Programming-Project/assets/146349622/e470a72d-0ead-46fc-b67b-756b4c83ad3a)
 
-    
     Type 1 without leaving any spaces:
            
     ![image](https://github.com/SRM1412000/Introduction-to-Programming-Project/assets/146349622/0dcbb94a-7d56-4329-9144-7b109f50a716)
@@ -93,9 +92,9 @@ The program proceeds to search in the file "Obri.txt" (where the summary of the 
 
     
     Type 23.txt
+   
     ![image](https://github.com/SRM1412000/Introduction-to-Programming-Project/assets/146349622/09185df4-b943-4a35-ac8b-b7ef1ce0ffae)
 
-    
     When you press enter, the following message will be printed to the console:
     ![image](https://github.com/SRM1412000/Introduction-to-Programming-Project/assets/146349622/6e0d9a27-10d5-44ba-94cd-e0f39fea7315)
 
