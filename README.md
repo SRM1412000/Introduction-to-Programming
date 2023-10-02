@@ -1,4 +1,6 @@
 # Introduction-to-Programming-Project
+<justify>
+
 
 * Project by: Valeria Ferreira Nocua [@valeferreiraan](https://github.com/valeferreiraan), Germán David Plazas Cayachoa [@DavPlazas](https://github.com/DavPlazas), Santiago Rodríguez Morales [@SRM1412000](https://github.com/SRM1412000)
 
@@ -101,3 +103,4 @@ The program proceeds to search in the file "Obri.txt" (where the summary of the 
     
     IMPORTANT: Do not delete the file "Obri.txt" at any time.
 
+</justify>
