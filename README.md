@@ -16,7 +16,11 @@
 ## Introduction
 ### Summary <a name="summary"></a>
 <span style="text-align:justify;">
-A company gets a daily summary of its accounts (income, debts and money owned by its business). The single chart of accounts is a system with a universal notation, where codes (numbers) of two to four digits are used. Each code represents a type of transaction that must be taken into account by the company. However, is it necessary for an accountant to be with a calculator all the time? For this, we have created a program in which a user can upload a file with each code and value to declare, or if you wish, the program helps you to create this file. This file contains all the data that the user wants to add to his account. Every day, the user has the possibility to update his account and add up his Assets, Liabilities and Equity thanks to the functionality of the program (Every account is balanced if Assets = Liabilities + Equity). This account summary can be viewed in a text file created by the program. In addition, in case the equation is not balanced, the program suggests where to check to balance the account. All this is possible because the program knows how to translate each code. For example, if the code entered is 1110, the program knows that it refers to a bank account and performs the relevant procedures.
+In a binary search tree it may happen that in some of its nodes the left and right subtrees differ by more than one unit in their height. When this happens, the search speed in a binary tree is considerably affected. Consequently, when inserting or removing nodes, more time is spent.
+
+For this reason, it is convenient to implement an algorithm that allows the heights of the subtrees of each node not to differ by more than one unit, i.e., to be a balanced tree. A possible solution to this problem is to implement binary AVL trees (AVL Tree), which is a balanced binary tree structure. 
+
+The work that was developed to implement a binary AVL tree consisted of creating the functions left rotation, right rotation, left composite rotation, right composite rotation and balancing to balance a binary tree.
 </span>
 
 ### Functionality of the Computational Solution <a name="funcionalidad"></a>
